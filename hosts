@@ -1,0 +1,4 @@
+# 需要配置本地 Hbase地址
+10.0.12.206      hadoop-master
+10.0.12.207      hadoop-slave
+
